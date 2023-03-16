@@ -1,0 +1,16 @@
+.nav-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+  background-color: #152850;
+}
+
+.log-out-button {
+  color: #c3cad9;
+  border: 1px solid #c3cad9;
+  background: transparent;
+  padding: 5px 15px 5px 15px;
+  outline: none;
+  cursor: pointer;
+}
